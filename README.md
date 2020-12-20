@@ -1,9 +1,19 @@
 
-# Doom Nukem
+# Doom Nukem like game on C languaje
 
 ![https://github.com/tjuana/DooM_42/raw/master/image.gif](https://github.com/tjuana/DooM_42/raw/master/image.gif)
 
-This game is a mix of Doom and Duke Nukem 3D. We implemented some basics functional elements and added new functionality. It was funny.
+# Authors
+
+[danjos91](https://github.com/danjos91)
+
+[lokswin](https://github.com/lokswin)
+
+[nasvetil](https://github.com/nasvetil)
+
+[tjuana](https://github.com/tjuana)
+
+This game is a mix of Doom and Duke Nukem 3D physics on C languaje. We implemented some basics functional elements and added new functionality. It was cool and funny.
 
 # Main menu
 
@@ -44,15 +54,7 @@ Click on the left mouse button — shot
 
 `ESC` — exit
 
-# Author
 
-[danjos91](https://github.com/danjos91)
-
-[lokswin](https://github.com/lokswin)
-
-[nasvetil](https://github.com/nasvetil)
-
-[tjuana](https://github.com/tjuana)
 =======
 DooM-Nukem-3D
 #42_school project - Doom-style PortalRendering game.
